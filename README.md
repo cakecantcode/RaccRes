@@ -1,12 +1,13 @@
-Included in the download zip is SOURCE.cpp and RaccResV2.exe
+# RaccResV2 🦝
+A simple Windows console program to quickly switch screen resolutions (made for VALORANT stretched users).
 
-SOURCE.cpp is the uncompiled code for editing resolution or how the program runs. Do some cool stuff with it if you please.
-
-RaccResV2.exe is the compiled program, ready to work.
-
-@cakeracc on twitter for suggestions/issues.
-
-this was mostly a personal project that i wanted to make because using stretched in VALORANT can be a pain in the ass sometimes.
+1. Download the latest release
+2. Extract the files.
+3. Run `RaccResV2.exe` before running VALORANT
+4. Choose your resolution from the menu, keep it open, and launch VALORANT.
+For any issues, read the note at the bottom.
 
 NOTE : THIS PROGRAM ONLY WORKS WITH THE WINDOWS CONTROL PANEL METHOD, WHERE YOU DISABLE YOUR PRIMARY MONITOR IN CONTROL PANEL. No other method works with this.
 If you need steps on how to do this, google. <3
+
+If there are any other issues i am unaware about, DM @cakeracc x.com/cakeracc
