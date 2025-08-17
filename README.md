@@ -8,6 +8,6 @@ A simple Windows console program to quickly switch screen resolutions (made for 
 For any issues, read the note at the bottom.
 
 NOTE : THIS PROGRAM ONLY WORKS WITH THE WINDOWS CONTROL PANEL METHOD, WHERE YOU DISABLE YOUR PRIMARY MONITOR IN CONTROL PANEL. No other method works with this.
-If you need steps on how to do this, google. <3
+If you need steps on how to do this, [CLICK HERE TO WATCH HOW!](https://www.youtube.com/watch?v=YZORhvb0UgA)
 
 If there are any other issues i am unaware about, DM @cakeracc x.com/cakeracc
