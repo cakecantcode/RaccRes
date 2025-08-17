@@ -10,7 +10,7 @@
 
  @cakeracc on twitter
 
- simple res changer for valorant 1280x882
+ simple res changer for valorant
 
 (\_._/)
 ( 0 0 )
@@ -136,3 +136,4 @@ int main(void) {
     }
     return 0;
 }
+
